@@ -6,9 +6,8 @@ Skilled developer with nearly 5 years of experience in backend development and d
 
 - 🌍 I'm from Columbus, Ohio
 - 📫 Reach me at [ji10drasharma@gmail.com](mailto:ji10drasharma@gmail.com)
-- 📄 Check out my resume at [MyResume](http://drive.google.com/file/d/1FTCGolSnkgWspXIoQh9L6cyicwKApb7m/view?usp=sharing)
 - 🔭 I'm currently working on detecting AI-generated Images with Embedding
-- 🌱 I'm currently learning AWS
+- 🌱 AWS Certified Cloud Practitioner
 - ⚡ Fun fact about me: I enjoy DIY car repair
 
 ---
