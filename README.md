@@ -19,7 +19,7 @@ Skilled developer with nearly 5 years of experience in backend development and d
 * **Web Frameworks:** FastAPI, Flask
 * **Operating Systems:** Linux, Windows
 * **Version Control:** Git
-* **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, Redshift), Google Cloud, Azure, Heroku
+* **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, Redshift), Google Cloud Platform (Big Query, Cloud SQL), Azure, Heroku
 
 ---
 
