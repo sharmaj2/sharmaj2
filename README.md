@@ -2,7 +2,7 @@
 
 ## Data Engineer
 
-Skilled developer with nearly 5 years of experience in backend development and data engineering, specializing in **ETL pipelines** and **RESTful APIs development**. Proficient in **Python**, **SQL**, and **AWS cloud-based architectures**.
+Skilled developer with hands-on experience in backend development and data engineering, specializing in **ETL pipelines** and **RESTful APIs development**. Proficient in **Python**, **SQL**, and **AWS cloud-based architectures**.
 
 - 🌍 I'm from Columbus, Ohio
 - 📫 Reach me at [ji10drasharma@gmail.com](mailto:ji10drasharma@gmail.com)
